@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=cookiecutter_backend
+POSTGRES_USER=ETaTpVjouLpFBELXHhhLvdRTcHtWMisk
+POSTGRES_PASSWORD=PfNjR09fudhyTRrRUNw0Ycx2WMNk8BvF3sVdEVIzB5UGnm2k0T4BPBUmM0j0A5uL

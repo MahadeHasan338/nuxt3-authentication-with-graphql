@@ -1,0 +1,18 @@
+<script setup lang="ts">
+useHead({
+  titleTemplate: 'Project X',  
+})
+</script>
+
+<template>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
+</template>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+  html {
+    font-family: 'Poppins', sans-serif;
+  }
+</style>
